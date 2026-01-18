@@ -1,3 +1,0 @@
-# Zero Kelvin
-
-Hello Earth.
